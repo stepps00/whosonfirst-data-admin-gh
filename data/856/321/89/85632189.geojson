@@ -9,7 +9,6 @@
     "geom:bbox":"-3.260676,4.735417,1.199479,11.166667",
     "geom:latitude":7.965218,
     "geom:longitude":-1.205938,
-    "gn:id":"",
     "gn:population":24339838,
     "iso:country":"GH",
     "itu:country_code":[
@@ -1033,7 +1032,7 @@
         "ewe",
         "gaa"
     ],
-    "wof:lastmodified":1587427317,
+    "wof:lastmodified":1603258465,
     "wof:name":"Ghana",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

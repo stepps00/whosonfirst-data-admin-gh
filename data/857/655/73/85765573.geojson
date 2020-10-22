@@ -9,7 +9,6 @@
     "geom:bbox":"-0.203195,5.554054,-0.203195,5.554054",
     "geom:latitude":5.554054,
     "geom:longitude":-0.203195,
-    "gn:id":"",
     "iso:country":"GH",
     "lbl:bbox":"-0.208195,5.549054,-0.198195,5.559054",
     "lbl:latitude":5.554054,
@@ -234,10 +233,7 @@
         }
     ],
     "wof:id":85765573,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582352116,
+    "wof:lastmodified":1603258465,
     "wof:name":"Ridge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
